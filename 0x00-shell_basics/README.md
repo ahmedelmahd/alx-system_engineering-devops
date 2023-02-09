@@ -10,3 +10,4 @@ Deletes the file betty
 Delete the directory my_first_directory that is in the /tmp directory.
 changes the working directory to the previous one.
 lists all files,even hidden ones, in the working directory and the parent of that directory + the /boot directory ( in the same order ), in long format
+prints the type of a file named iamafile in the /tmp directory
