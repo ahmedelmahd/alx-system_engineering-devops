@@ -6,3 +6,4 @@ changes the working directory to the user’s home directory.Displays current di
 Long format
 with user and group IDs displayed numerically
 And hidden files (starting with .)creates a directory named my_first_directory in the /tmp/ directory.Move the file betty from /tmp/ to /tmp/my_first_directory.
+Deletes the file betty
