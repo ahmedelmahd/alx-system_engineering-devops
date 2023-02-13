@@ -9,3 +9,4 @@ Display the first 10 lines of /etc/passwd
 displays the third line of the file iacta.
 creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 duplicates the last line of the file iacta
+deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
