@@ -1,2 +1,2 @@
 #!/bin/bash
-cut iacta -d $'\n' -f 3
+cut iacta -d $'\n' -f 3,4
