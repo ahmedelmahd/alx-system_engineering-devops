@@ -10,3 +10,4 @@ prints the result of the addition of 128 with the value stored in the environmen
 prints the result of POWER divided by DIVIDE, followed by a new line.
 displays the result of BREATH to the power LOVE
 converts a number from base 2 to base 10.
+prints all possible combinations of two letters, except oo.
