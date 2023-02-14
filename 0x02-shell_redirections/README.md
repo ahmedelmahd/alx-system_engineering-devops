@@ -20,3 +20,4 @@ Requirements:
 
 One file per line
 Sorted from the newest to the oldest
+takes a list of words as input and prints only words that appear exactly once.
